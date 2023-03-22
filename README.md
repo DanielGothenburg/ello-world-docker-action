@@ -4,9 +4,9 @@ If you have a custom action to use in your workflow you can store the action in 
 
 Therefore - in this example:
 
-*Workflow file exists in dedicated folder
+* Workflow file exists in dedicated folder
 
-*Action file exists in root
+* Action file exists in root
 
 The action is defined by an action file. The action can use other related files. as in the example below.
 
