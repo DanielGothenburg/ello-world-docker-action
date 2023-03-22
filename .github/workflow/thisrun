@@ -12,8 +12,8 @@ jobs:
 
     steps:
             - uses: actions/checkout@v3
-            - name: First need to check out uisng standrad checkout action
-            - uses: ./
+            - name: First need to check out using standard checkout action
+            - uses: ./action
             
             
             #- uses: ./.github/actions/my-action
