@@ -3,7 +3,9 @@ An action is a custom application for the GitHub Actions platform that performs 
 If you have a custom action to use in your workflow you can store the action in same repo. Potwntially in a dedicated folder structure, or otherwise directly in root (as in this example)
 
 Therefore - in this example:
+
 Workflow file exists in dedicated folder
+
 Action file exists in root
 
 The action is defined by an action file. The action can use other related files. as in the example below.
