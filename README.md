@@ -1,12 +1,12 @@
 An Action is NOT a workflow. A workflow can use an Action (as part of workflow).
 An action is a custom application for the GitHub Actions platform that performs a complex but frequently repeated task. Hence it can be called by a workflow.
-If you have a custom action to use in your workflow you can store the action in same repo. Potwntially in a dedicated folder structure, or otherwise directly in root (as in this example)
+If you have a custom action to use in your workflow you can store the action in same repo. Potentially in a dedicated folder structure, or otherwise directly in root (as in this example)
 
 Therefore - in this example:
 
-Workflow file exists in dedicated folder
+*Workflow file exists in dedicated folder
 
-Action file exists in root
+*Action file exists in root
 
 The action is defined by an action file. The action can use other related files. as in the example below.
 
